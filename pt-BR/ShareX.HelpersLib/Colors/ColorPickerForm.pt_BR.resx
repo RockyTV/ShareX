@@ -133,7 +133,7 @@
     <value>1</value>
   </data>
   <data name="btnCancel.Text" xml:space="preserve">
-    <value>Cancel</value>
+    <value>Cancelar</value>
   </data>
   <data name="&gt;&gt;btnCancel.Name" xml:space="preserve">
     <value>btnCancel</value>
@@ -190,7 +190,7 @@
     <value>37</value>
   </data>
   <data name="lblOld.Text" xml:space="preserve">
-    <value>Old:</value>
+    <value>Antigo:</value>
   </data>
   <data name="&gt;&gt;lblOld.Name" xml:space="preserve">
     <value>lblOld</value>
@@ -220,7 +220,7 @@
     <value>36</value>
   </data>
   <data name="lblNew.Text" xml:space="preserve">
-    <value>New:</value>
+    <value>Novo:</value>
   </data>
   <data name="&gt;&gt;lblNew.Name" xml:space="preserve">
     <value>lblNew</value>
@@ -406,7 +406,7 @@
     <value>29</value>
   </data>
   <data name="lblKey.Text" xml:space="preserve">
-    <value>Key:</value>
+    <value>Chave:</value>
   </data>
   <data name="&gt;&gt;lblKey.Name" xml:space="preserve">
     <value>lblKey</value>
@@ -436,7 +436,7 @@
     <value>26</value>
   </data>
   <data name="lblYellow.Text" xml:space="preserve">
-    <value>Yellow:</value>
+    <value>Amarelo:</value>
   </data>
   <data name="&gt;&gt;lblYellow.Name" xml:space="preserve">
     <value>lblYellow</value>
@@ -496,7 +496,7 @@
     <value>20</value>
   </data>
   <data name="lblCyan.Text" xml:space="preserve">
-    <value>Cyan:</value>
+    <value>Ciano:</value>
   </data>
   <data name="&gt;&gt;lblCyan.Name" xml:space="preserve">
     <value>lblCyan</value>
@@ -1264,7 +1264,7 @@
     <value>CenterScreen</value>
   </data>
   <data name="$this.Text" xml:space="preserve">
-    <value>ShareX - Color picker</value>
+    <value>ShareX - Escolher cor</value>
   </data>
   <data name="&gt;&gt;ttMain.Name" xml:space="preserve">
     <value>ttMain</value>
