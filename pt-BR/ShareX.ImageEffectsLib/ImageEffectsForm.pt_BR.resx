@@ -259,7 +259,7 @@
     <value>15</value>
   </data>
   <data name="btnCancel.Text" xml:space="preserve">
-    <value>Cancel</value>
+    <value>Cancelar</value>
   </data>
   <data name="&gt;&gt;btnCancel.Name" xml:space="preserve">
     <value>btnCancel</value>
