@@ -290,7 +290,7 @@
     <value>OK</value>
   </data>
   <data name="MyMessageBox_MyMessageBox_Cancel" xml:space="preserve">
-    <value>Cancel</value>
+    <value>Cancelar</value>
   </data>
   <data name="MyMessageBox_MyMessageBox_Yes" xml:space="preserve">
     <value>Yes</value>
@@ -343,7 +343,7 @@ File size: {2:n0} / {3:n0} KB</value>
     <value>URL to download settings from</value>
   </data>
   <data name="DownloaderForm_StartDownload_Cancel" xml:space="preserve">
-    <value>Cancel</value>
+    <value>Cancelar</value>
   </data>
   <data name="DownloaderForm_StartDownload_Downloading_" xml:space="preserve">
     <value>Downloading.</value>
